@@ -1,0 +1,48 @@
+{
+  "project_info":
+  {
+    "project_number": "12302271016",
+    "firebase_url": "https://pc-components-86133.firebaseio.com",
+    "project_id": "pc-components-86133",
+    "storage_bucket": "pc-components-86133.appspot.com"
+  },
+  "client":
+  [
+    {
+      "client_info":
+      {
+        "mobilesdk_app_id": "1:12302271016:android:f26a63587642636a",
+        "android_client_info":
+        {
+          "package_name": "com.example.pccomponentsfinal"
+        }
+      },
+      "oauth_client":
+      [
+        {
+          "client_id": "12302271016-qsatpvq9ifejm61f8jqb2g27g0372lii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key":
+      [
+        {
+          "current_key": "AIzaSyCwAMZI3vt-flTy7IWOB6XbbQ2X9Zlk1Ls"
+        }
+      ],
+      "services": {
+        "appinvite_service":
+        {
+          "other_platform_oauth_client":
+          [
+            {
+              "client_id": "12302271016-qsatpvq9ifejm61f8jqb2g27g0372lii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
